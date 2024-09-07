@@ -24,7 +24,7 @@ namespace CloudTG
 {
     internal class Program
     {
-        static string Token = "5328557370:AAHAEj5fWxrX3E951EGbmvS1mrB4W-0P54g";
+        static string Token = "5322557370:AAHAEe8fZxrX3E871EGbmvR1mrD4W-0P34g";
         static ITelegramBotClient bot = new TelegramBotClient(Token);
         static string connectionString = @"Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=TelegramCloud;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False";
         static void Main(string[] args)
