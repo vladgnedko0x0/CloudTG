@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudTG", "CloudTG\CloudTG.csproj", "{6A27CD37-9FBD-42C6-959E-1E667D19CF52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lib", "Lib\Lib.csproj", "{54190B30-22B5-4781-901E-A5EA8636F045}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A27CD37-9FBD-42C6-959E-1E667D19CF52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A27CD37-9FBD-42C6-959E-1E667D19CF52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A27CD37-9FBD-42C6-959E-1E667D19CF52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A27CD37-9FBD-42C6-959E-1E667D19CF52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54190B30-22B5-4781-901E-A5EA8636F045}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54190B30-22B5-4781-901E-A5EA8636F045}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54190B30-22B5-4781-901E-A5EA8636F045}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54190B30-22B5-4781-901E-A5EA8636F045}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30B4B549-3BDF-4BA1-8508-3A809C455703}
+	EndGlobalSection
+EndGlobal
